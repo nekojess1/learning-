@@ -1,0 +1,1 @@
+print('Só 12  meninas')
